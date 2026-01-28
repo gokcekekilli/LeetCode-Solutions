@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
