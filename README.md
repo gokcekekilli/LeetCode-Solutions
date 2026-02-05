@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2652-sum-multiples) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
 | ------- |
