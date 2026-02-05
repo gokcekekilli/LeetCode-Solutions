@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
