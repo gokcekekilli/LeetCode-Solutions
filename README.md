@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0806-number-of-lines-to-write-string](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0806-number-of-lines-to-write-string](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3174-clear-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3174-clear-digits) |
