@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3174-clear-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Bit Manipulation
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
