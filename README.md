@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3174-clear-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3794-reverse-string-prefix](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
