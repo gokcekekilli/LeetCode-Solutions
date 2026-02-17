@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3174-clear-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3174-clear-digits) |
