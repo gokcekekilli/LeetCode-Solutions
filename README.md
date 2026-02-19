@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2942-find-words-containing-character](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
