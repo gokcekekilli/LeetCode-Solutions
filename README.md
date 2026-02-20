@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gokcekekilli/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
